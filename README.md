@@ -45,20 +45,21 @@ npm install
 npm start
 
 Features
-- Responsive Images
-Implemented responsive image loading using <picture> and srcset to serve optimized images for mobile, tablet, and desktop screen sizes.
 
-- Interactive Navigation
-Navigation links use anchor-based navigation for smooth scrolling between page sections. The sidebar menu provides quick access to key sections of the page.
+Responsive Images
+- Implemented responsive image loading using <picture> and srcset to serve optimized images for mobile, tablet, and desktop screen sizes.
 
-- Contact Actions (Semantic Links)
-Implemented semantic link behavior:
+Interactive Navigation
+- Navigation links use anchor-based navigation for smooth scrolling between page sections. The sidebar menu provides quick access to key sections of the page.
+
+Contact Actions (Semantic Links)
+- Implemented semantic link behavior:
 tel: links initiate phone calls on supported devices
 mailto: links open the default email client with prefilled recipient
 External location links open Google Maps with predefined coordinates
 
-- Section-based Architecture
-Page is structured into independent semantic sections (header, recommended products, categories, about, contact) with clear hierarchy and reusable layout blocks.
+Section-based Architecture
+- Page is structured into independent semantic sections (header, recommended products, categories, about, contact) with clear hierarchy and reusable layout blocks.
 
-- Mobile-first UI Behavior
-Layout is built with responsive breakpoints ensuring proper adaptation across different screen widths, including mobile-first optimization.
+Mobile-first UI Behavior
+- Layout is built with responsive breakpoints ensuring proper adaptation across different screen widths, including mobile-first optimization.

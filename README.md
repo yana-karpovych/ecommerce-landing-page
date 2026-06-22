@@ -1,12 +1,13 @@
-Bang & Olufsen - Responsive Landing Page for Audio Products
+# Bang & Olufsen - Responsive Landing Page for Audio Products
 
 This project is a responsive landing page for a premium audio brand (B&O). It is designed to showcase high-end audio products, highlight key categories, and provide users with a clear overview of recommended items and brand information. The website focuses on clean UI, modern layout, and adaptive design across all devices.
 
-Experience the live website: [B&O Landing Page Demo](https://yana-karpovych.github.io/ecommerce-landing-page/)
+## Experience the live website: [B&O Landing Page Demo](https://yana-karpovych.github.io/ecommerce-landing-page/)
 
-Design Reference: [B&O](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=MskwNhVCsr1vgUzc-0)
+## Design Reference:
+[B&O](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=MskwNhVCsr1vgUzc-0)
 
-Technologies Used
+## Technologies Used
 
 Core
 - HTML5 (semantic markup)
@@ -32,7 +33,7 @@ Code Quality
 - Stylelint
 - Prettier
 
-How to run this project locally:
+## How to run this project locally:
 
 1. Clone the repository:
 git clone https://github.com/yana-karpovych/ecommerce-landing-page.git
@@ -44,7 +45,7 @@ npm install
 3. Run the project locally:
 npm start
 
-Features
+## Features
 
 Responsive Images
 - Implemented responsive image loading using <picture> and srcset to serve optimized images for mobile, tablet, and desktop screen sizes.

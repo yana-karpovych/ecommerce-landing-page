@@ -53,7 +53,7 @@ Interactive Navigation
 - Navigation links use anchor-based navigation for smooth scrolling between page sections. The sidebar menu provides quick access to key sections of the page.
 
 Contact Actions (Semantic Links)
-Implemented semantic link behavior:
+- Implemented semantic link behavior:
 - tel: links initiate phone calls on supported devices
 - mailto: links open the default email client with prefilled recipient
 - External location links open Google Maps with predefined coordinates

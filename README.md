@@ -2,7 +2,8 @@
 
 This project is a responsive landing page for a premium audio brand (B&O). It is designed to showcase high-end audio products, highlight key categories, and provide users with a clear overview of recommended items and brand information. The website focuses on clean UI, modern layout, and adaptive design across all devices.
 
-## Experience the live website: [B&O Landing Page Demo](https://yana-karpovych.github.io/ecommerce-landing-page/)
+## Experience the live website:
+[B&O Landing Page Demo](https://yana-karpovych.github.io/ecommerce-landing-page/)
 
 ## Design Reference:
 [B&O](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=MskwNhVCsr1vgUzc-0)
